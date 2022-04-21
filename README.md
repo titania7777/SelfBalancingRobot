@@ -33,5 +33,13 @@ Kalmanfilter original codes for unity in [HERE](https://github.com/prozoroff/UKF
 
 PID original code in [HERE](http://scipia.co.kr/blog/227)
 
-## Contact
-titania7777@gmail.com
+## Citation
+If you use this code in your work, please cite our work
+```bibtex
+@inproceedings{Self-Balancing2021,
+    author={Hyeok Yoon and Ji-Hyeong Han},
+    title={Training and Implementation of Self-Balancing Robot with ML-Agents},
+    booktitle={Proceedings of the 35th Institute of Control, Robotics and Systems Annual Conference (ICROS 2020)},
+    pages={448-449},
+    year={2021},
+}
